@@ -1,0 +1,8 @@
+.ccborder{
+    background-color:rgb(240, 240, 240);
+    border-style: dashed;
+        border-color: white;
+              border-radius: 20px;
+              height: 600px;
+              width: 100%;
+  }
